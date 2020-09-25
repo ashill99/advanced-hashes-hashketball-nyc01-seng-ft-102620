@@ -203,6 +203,9 @@ def big_shoe_rebounds
         size = data[:shoe]
         if size > biggest_shoe
           biggest_shoe = size 
-          
+            rebounds = data[:rebounds]
+          end
+        end
+      end
 rebounds 
 end 
