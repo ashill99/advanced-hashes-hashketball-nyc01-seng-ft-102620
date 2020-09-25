@@ -193,16 +193,6 @@ def player_stats(player_name)
 end 
 
 def big_shoe_rebounds 
-  biggest_shoe = 0
-  rebounds = 0 
-    # game_hash.each do |location, team_data|
-    # team_data[:players].each do |player, value|
-    #   player[:shoe]
-    #   if player > biggest_shoe
-    
-    game_hash.each do |location, team_data|
-      team_data[:players].each do |player_name, value|
-        binding.pry
-  end
-end
+11
+
 end 
